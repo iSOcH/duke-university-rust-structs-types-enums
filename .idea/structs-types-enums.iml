@@ -4,8 +4,10 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/examples/2-creating-structs/creating/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/examples/3-associated-functions/associated/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/7-mut-string/manipulating/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/examples/2-creating-structs/creating/target" />
       <excludeFolder url="file://$MODULE_DIR$/examples/3-associated-functions/associated/target" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/7-mut-string/manipulating/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
