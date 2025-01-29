@@ -11,6 +11,9 @@
       <sourceFolder url="file://$MODULE_DIR$/examples/12-enum-types/enum-types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/examples/14-match-enums/match-enum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/examples/15-enums-vectors/enums-vectors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/lab-filesize-formatter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/microsoft/rust-error-handling/exercise-4-use-option-type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/microsoft/rust-error-handling/exercise-6-use-result-type/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/examples/2-creating-structs/creating/target" />
       <excludeFolder url="file://$MODULE_DIR$/examples/3-associated-functions/associated/target" />
       <excludeFolder url="file://$MODULE_DIR$/examples/7-mut-string/manipulating/target" />
@@ -20,6 +23,9 @@
       <excludeFolder url="file://$MODULE_DIR$/examples/12-enum-types/enum-types/target" />
       <excludeFolder url="file://$MODULE_DIR$/examples/14-match-enums/match-enum/target" />
       <excludeFolder url="file://$MODULE_DIR$/examples/15-enums-vectors/enums-vectors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/lab-filesize-formatter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/microsoft/rust-error-handling/exercise-4-use-option-type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/examples/microsoft/rust-error-handling/exercise-6-use-result-type/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
